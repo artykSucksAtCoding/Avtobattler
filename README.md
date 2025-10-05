@@ -12,4 +12,4 @@
 1. Установи Python 3.10+
 2. Установи зависимости:
    ```bash
-   pip install pygame
+   pip install pygame-ce
